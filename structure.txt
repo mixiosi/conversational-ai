@@ -1,0 +1,13 @@
+conversational-ai/
+├── .venv/                  # Virtual environment
+├── src/
+│   ├── __init__.py
+│   ├── agent.py            # Agent class and logic
+│   ├── config.py           # Load configuration
+│   ├── gemini_client.py    # Wrapper for Gemini API calls
+│   └── conversation.py     # Manage conversation history
+├── main.py                 # Main application script
+├── .env                    # Store API key (DO NOT COMMIT)
+├── requirements.txt        # Project dependencies
+└── README.md               # Project documentation
+└── .gitignore              # Git ignore file
