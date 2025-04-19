@@ -22,4 +22,8 @@ COLOR_RESET = "\033[0m"
 
 # You might add other settings here later, like max turns, model name, etc.
 MAX_TURNS = 6 # e.g., 2 rounds per bot for 3 bots
+<<<<<<< HEAD
 MODEL_NAME = "learnlm-1.5-pro-experimental"
+=======
+MODEL_NAME = "learnlm-1.5-pro-experimental"
+>>>>>>> 35e2355acd4e3a2ed361574836b424a567e42961
