@@ -21,14 +21,8 @@ AGENT_CONFIG = [
 COLOR_RESET = "\033[0m"
 
 # You might add other settings here later, like max turns, model name, etc.
-<<<<<<< HEAD
+
 MAX_TURNS = 6 # e.g., 2 rounds per bot for 3 bots
-<<<<<<< HEAD
+
 MODEL_NAME = "learnlm-1.5-pro-experimental"
-=======
-MODEL_NAME = "learnlm-1.5-pro-experimental"
->>>>>>> 35e2355acd4e3a2ed361574836b424a567e42961
-=======
-MAX_TURNS = 50 # e.g., 2 rounds per bot for 3 bots
-MODEL_NAME = "gemma-3-27b-it"
->>>>>>> c4bf6e946e1e115632c01f2f23e0e860e757e43f
+
