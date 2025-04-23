@@ -66,7 +66,7 @@
 
 Below is a screenshot showing the application in action after the user provides a topic:
 
-![Demo screenshot of the conversational AI application in action](image/demo.png)
+![Demo screenshot of the conversational AI application in action](images/demo.png)
 
 ## Configuration
 
