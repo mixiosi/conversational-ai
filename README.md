@@ -1,3 +1,5 @@
+--- START OF FILE README.md ---
+
 
 *   **`main.py`**:
     *   The main entry point for the application.
@@ -60,6 +62,12 @@
     ```
 3.  Enter a topic when prompted.
 
+### Example Usage
+
+Below is a screenshot showing the application in action after the user provides a topic:
+
+![Demo screenshot of the conversational AI application in action](image/demo.png)
+
 ## Configuration
 
 *   Agent personalities, the number of agents, maximum discussion turns, and the specific Gemini model used can be adjusted in `src/config.py`.
@@ -67,3 +75,5 @@
 ## Current Status
 
 The basic framework for multi-agent conversation is functional. Ongoing efforts are focused on refining the prompts within `src/agent.py` to improve the agents' ability to directly respond to each other and maintain a more coherent and engaging discussion.
+
+--- END OF FILE README.md ---
