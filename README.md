@@ -1,4 +1,3 @@
---- START OF FILE README.md ---
 
 
 *   **`main.py`**:
@@ -75,5 +74,3 @@ Below is a screenshot showing the application in action after the user provides 
 ## Current Status
 
 The basic framework for multi-agent conversation is functional. Ongoing efforts are focused on refining the prompts within `src/agent.py` to improve the agents' ability to directly respond to each other and maintain a more coherent and engaging discussion.
-
---- END OF FILE README.md ---
